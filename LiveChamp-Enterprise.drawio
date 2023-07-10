@@ -1,9 +1,66 @@
-<mxfile host="app.diagrams.net" modified="2023-07-10T05:21:59.934Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.5.1 Safari/605.1.15" version="21.6.1" etag="_qstqcgvUvPFDiWBBfPu" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-10T07:14:00.449Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.5.1 Safari/605.1.15" etag="4ib17oP-NlBi59Hh-v0d" version="21.6.1" type="github">
   <diagram name="Page-1" id="44zZPaApqiIUt-cTQp_n">
-    <mxGraphModel>
+    <mxGraphModel dx="949" dy="606" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="f6qxGxTqfRxDjlEGLXbx-1" value="High Level Design" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="60" y="70" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="f6qxGxTqfRxDjlEGLXbx-2" value="Live Capture" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="200" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="f6qxGxTqfRxDjlEGLXbx-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="f6qxGxTqfRxDjlEGLXbx-3" target="f6qxGxTqfRxDjlEGLXbx-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="f6qxGxTqfRxDjlEGLXbx-3" value="FFmpeg wrapper&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="200" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="f6qxGxTqfRxDjlEGLXbx-7" value="Browser extension" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="260" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="f6qxGxTqfRxDjlEGLXbx-9" value="ASR service" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="200" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="f6qxGxTqfRxDjlEGLXbx-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="f6qxGxTqfRxDjlEGLXbx-12" target="f6qxGxTqfRxDjlEGLXbx-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="f6qxGxTqfRxDjlEGLXbx-12" value="Live Monitoring" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="360" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="f6qxGxTqfRxDjlEGLXbx-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="f6qxGxTqfRxDjlEGLXbx-14" target="f6qxGxTqfRxDjlEGLXbx-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="f6qxGxTqfRxDjlEGLXbx-14" value="Live Analytics" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="520" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="f6qxGxTqfRxDjlEGLXbx-15" value="Live Summary" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="520" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="f6qxGxTqfRxDjlEGLXbx-17" value="Audio Content Review" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="600" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="f6qxGxTqfRxDjlEGLXbx-18" value="Comments Summary" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="680" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="f6qxGxTqfRxDjlEGLXbx-19" value="Real-time engine" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="360" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="f6qxGxTqfRxDjlEGLXbx-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="f6qxGxTqfRxDjlEGLXbx-21" target="f6qxGxTqfRxDjlEGLXbx-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="f6qxGxTqfRxDjlEGLXbx-21" value="Live Report" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="800" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="f6qxGxTqfRxDjlEGLXbx-22" value="Slides generator" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="800" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="f6qxGxTqfRxDjlEGLXbx-24" value="Platform Operation" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="920" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="f6qxGxTqfRxDjlEGLXbx-25" value="Storage service" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="260" width="120" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
