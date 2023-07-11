@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-11T04:27:27.782Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.5.1 Safari/605.1.15" etag="uYryBma-qlAWbjVv1qaq" version="21.6.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-11T04:30:11.694Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.5.1 Safari/605.1.15" etag="jzXJ9U8rgiSIopEiW3JB" version="21.6.1" type="github">
   <diagram name="Page-1" id="44zZPaApqiIUt-cTQp_n">
     <mxGraphModel dx="949" dy="606" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
       <root>
@@ -84,6 +84,15 @@
         </mxCell>
         <mxCell id="f6qxGxTqfRxDjlEGLXbx-51" value="High Level Design - Common Capabilities" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Tahoma;fontSize=16;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="580" y="40" width="340" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="f6qxGxTqfRxDjlEGLXbx-52" value="Authentication" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="720" y="400" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="f6qxGxTqfRxDjlEGLXbx-53" value="Authorization" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="720" y="470" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="f6qxGxTqfRxDjlEGLXbx-54" value="User profile" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="720" y="540" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
