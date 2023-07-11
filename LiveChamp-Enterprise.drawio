@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-10T09:36:37.283Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.5.1 Safari/605.1.15" etag="i_zJy0myFtSF9UpKzlSA" version="21.6.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-11T04:27:27.782Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.5.1 Safari/605.1.15" etag="uYryBma-qlAWbjVv1qaq" version="21.6.1" type="github">
   <diagram name="Page-1" id="44zZPaApqiIUt-cTQp_n">
     <mxGraphModel dx="949" dy="606" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
       <root>
@@ -13,11 +13,8 @@
         <mxCell id="f6qxGxTqfRxDjlEGLXbx-36" value="&lt;font face=&quot;Tahoma&quot; style=&quot;font-size: 16px; font-weight: normal;&quot;&gt;&lt;u&gt;Live Monitoring&lt;/u&gt;&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="f6qxGxTqfRxDjlEGLXbx-34">
           <mxGeometry x="20" y="10" width="110" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="f6qxGxTqfRxDjlEGLXbx-19" value="Real-time engine" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="f6qxGxTqfRxDjlEGLXbx-34">
-          <mxGeometry x="40" y="50" width="120" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="f6qxGxTqfRxDjlEGLXbx-37" value="Ruleset mgmt" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="f6qxGxTqfRxDjlEGLXbx-34">
-          <mxGeometry x="190" y="50" width="120" height="40" as="geometry" />
+          <mxGeometry x="40" y="50" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="f6qxGxTqfRxDjlEGLXbx-33" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="160" y="80" width="340" height="180" as="geometry" />
@@ -33,15 +30,6 @@
         </mxCell>
         <mxCell id="f6qxGxTqfRxDjlEGLXbx-3" value="FFmpeg wrapper&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="f6qxGxTqfRxDjlEGLXbx-33">
           <mxGeometry x="40" y="60" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="f6qxGxTqfRxDjlEGLXbx-25" value="Storage" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="f6qxGxTqfRxDjlEGLXbx-33">
-          <mxGeometry x="190" y="120" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="f6qxGxTqfRxDjlEGLXbx-9" value="ASR" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="f6qxGxTqfRxDjlEGLXbx-33">
-          <mxGeometry x="190" y="60" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="f6qxGxTqfRxDjlEGLXbx-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="f6qxGxTqfRxDjlEGLXbx-33" source="f6qxGxTqfRxDjlEGLXbx-3" target="f6qxGxTqfRxDjlEGLXbx-9">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="f6qxGxTqfRxDjlEGLXbx-1" value="High Level Design - Enterprise Features" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Tahoma;fontSize=16;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="80" y="40" width="340" height="30" as="geometry" />
@@ -81,6 +69,21 @@
         </mxCell>
         <mxCell id="f6qxGxTqfRxDjlEGLXbx-24" value="Platform Operation" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="f6qxGxTqfRxDjlEGLXbx-44">
           <mxGeometry x="40" y="110" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="f6qxGxTqfRxDjlEGLXbx-9" value="ASR" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="720" y="120" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="f6qxGxTqfRxDjlEGLXbx-25" value="Storage" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="720" y="190" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="f6qxGxTqfRxDjlEGLXbx-19" value="Real-time engine" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="720" y="260" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="f6qxGxTqfRxDjlEGLXbx-50" value="Job scheduler" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="720" y="330" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="f6qxGxTqfRxDjlEGLXbx-51" value="High Level Design - Common Capabilities" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Tahoma;fontSize=16;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="580" y="40" width="340" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
