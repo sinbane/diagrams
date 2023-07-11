@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-11T06:56:49.169Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.5.1 Safari/605.1.15" etag="VyyAIXfldYEQxGcvvvqR" version="21.6.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-11T07:05:41.783Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.5.1 Safari/605.1.15" etag="Rfuzk2F2hmZvr04DULz2" version="21.6.1" type="github">
   <diagram name="Page-1" id="44zZPaApqiIUt-cTQp_n">
     <mxGraphModel dx="949" dy="606" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
       <root>
@@ -30,6 +30,9 @@
         </mxCell>
         <mxCell id="f6qxGxTqfRxDjlEGLXbx-3" value="FFmpeg wrapper&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="f6qxGxTqfRxDjlEGLXbx-33">
           <mxGeometry x="40" y="60" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="f6qxGxTqfRxDjlEGLXbx-56" value="Data crawler" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="f6qxGxTqfRxDjlEGLXbx-33">
+          <mxGeometry x="190" y="60" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="f6qxGxTqfRxDjlEGLXbx-1" value="High Level Design - Enterprise Features" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Tahoma;fontSize=16;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="80" y="40" width="340" height="30" as="geometry" />
